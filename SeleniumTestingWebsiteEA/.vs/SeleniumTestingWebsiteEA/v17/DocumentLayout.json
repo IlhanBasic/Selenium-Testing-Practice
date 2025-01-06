@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|solutionrelative:seleniumtestingwebsiteea\\testtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|c:\\users\\pc\\documents\\testingseleniumpractice\\seleniumtestingwebsiteea\\seleniumtestingwebsiteea\\loginpage\\loginmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|solutionrelative:seleniumtestingwebsiteea\\loginpage\\loginmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|c:\\users\\pc\\documents\\testingseleniumpractice\\seleniumtestingwebsiteea\\seleniumtestingwebsiteea\\employeepage\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|solutionrelative:seleniumtestingwebsiteea\\employeepage\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|c:\\users\\pc\\documents\\testingseleniumpractice\\seleniumtestingwebsiteea\\seleniumtestingwebsiteea\\loginpage\\loginmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|solutionrelative:seleniumtestingwebsiteea\\loginpage\\loginmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10501C15-0905-4AB9-9E8B-29DEF297FC50}|SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA.csproj|c:\\users\\pc\\documents\\testingseleniumpractice\\seleniumtestingwebsiteea\\seleniumtestingwebsiteea\\userpage\\usermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmployeeManage.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\TestingSeleniumPractice\\SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA\\EmployeePage\\EmployeeManage.cs",
               "RelativeDocumentMoniker": "SeleniumTestingWebsiteEA\\EmployeePage\\EmployeeManage.cs",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginManage.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\TestingSeleniumPractice\\SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA\\LoginPage\\LoginManage.cs",
               "RelativeDocumentMoniker": "SeleniumTestingWebsiteEA\\LoginPage\\LoginManage.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\TestingSeleniumPractice\\SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA\\LoginPage\\LoginManage.cs",
               "RelativeToolTip": "SeleniumTestingWebsiteEA\\LoginPage\\LoginManage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewCEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T09:23:38.109Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "SeleniumTestingWebsiteEA\\UserPage\\UserManage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T09:23:31.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T09:23:31.179Z"
             },
             {
               "$type": "Document",
@@ -79,7 +78,7 @@
               "RelativeDocumentMoniker": "SeleniumTestingWebsiteEA\\TestTasks.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\TestingSeleniumPractice\\SeleniumTestingWebsiteEA\\SeleniumTestingWebsiteEA\\TestTasks.cs",
               "RelativeToolTip": "SeleniumTestingWebsiteEA\\TestTasks.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAjwDQAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T09:22:57.505Z",
               "EditorCaption": ""

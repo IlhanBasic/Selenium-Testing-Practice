@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SeleniumTestingWebsiteEA.LoginPage;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,13 +21,20 @@ namespace SeleniumTestingWebsiteEA
 		[Test]
 		public void LoginUser()
 		{
-
+			LoginManage lm = new LoginManage(driver);
+			lm.GoToLoginPage();
+			lm.LoginUser("admin", "password");
 		}
 		[Test]
+
 		public void IsUserAdmin()
 		{
-
-		}
+			LoginManage lm = new LoginManage(driver);
+			lm.GoToLoginPage();
+			lm.LoginUser("admin", "password");
+			var admin = lm.CheckIsUserAdmin();
+			Assert.IsTrue(admin.isLogged && admin.isAdmin);
+		}	
 		[Test]
 		public void AddEmployee()
 		{
